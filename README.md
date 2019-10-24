@@ -17,7 +17,7 @@ Currently, the cache simulator only accepts command line inputs. The inputs are 
  
 The command line input is the the following:
 
-/sim_cache <Blocsize int> <L1_size> <L1_Assoc> <L2_size> <L2_assoc> <<L2_data_blocks> <L2_Addr_tags> <Tracefile>
+./sim_cache <Blocsize int> <L1_size> <L1_Assoc> <L2_size> <L2_assoc> <<L2_data_blocks> <L2_Addr_tags> <Tracefile>
   
   # Outputs
   
